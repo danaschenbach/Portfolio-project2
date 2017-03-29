@@ -1,0 +1,58 @@
+body {
+    font-family: "Jim Nightshade", cursive;
+    background-color: #0ff;
+}
+
+figcaption {
+    color: #f00;
+    font-family: "Jim Nightshade", cursive;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+p {
+    font: 1em/1.5em slabo, serif;
+    padding: 0.313em;
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    vertical-align: middle;
+    max-height: 100%;
+    max-width: 100%;
+    padding-top: 0.313em;
+    padding-bottom: 0.313em;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    padding: 0 0 0.625em 0;
+    font: 1em/1.5em slabo , serif;
+    font-weight: 200;
+}
+
+.social a {
+    margin: 0.313em;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container {
+	padding-top: 0.313em;
+	border-width: 1em;
+	max-width: 59.375em;
+}
+
+
+.title-large {
+	font-size: 3.75em;
+}
+
+
+
+
+
