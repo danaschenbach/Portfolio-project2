@@ -25,34 +25,26 @@ img {
     padding-bottom: 0.313em;
 }
 
-main {
+main, second {
     text-align: center;
 }
 
-footer {
-    padding: 0 0 0.625em 0;
-    font: 1em/1.5em slabo , serif;
-    font-weight: 200;
-}
-
-.social a {
+a {
     margin: 0.313em;
     display: inline-block;
     vertical-align: middle;
+    color: #333;
+    font: 1em/1.5em slabo , serif;
+    font-weight: 200;
 }
 
 .container {
 	padding-top: 0.313em;
 	border-width: 1em;
-	max-width: 59.375em;
+	max-width: 80em;
 }
 
 
 .title-large {
 	font-size: 3.75em;
 }
-
-
-
-
-
